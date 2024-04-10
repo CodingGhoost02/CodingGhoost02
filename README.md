@@ -1,26 +1,21 @@
-<h1 align="center">Hi 👋, I'm Mohammad Faisal</h1>
-<h3 align="center">An aspiring software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codingghoost02&label=Profile%20views&color=0e75b6&style=flat" alt="codingghoost02" /> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohammad Faisal ) 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingghoost02" alt="codingghoost02" /></a> </p>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CodingGhoost02&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CodingGhoost02&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingGhoost02&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🌱 I’m currently learning **HTML CSS**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=CodingGhoost02&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
-- 👨‍💻 All of my projects are available at [coding-ghoost02-github-io.vercel.app](coding-ghoost02-github-io.vercel.app)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=CodingGhoost02&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
 
-- 💬 Ask me about **Java,MYSQL**
+---
+[![](https://visitcount.itsvg.in/api?id=CodingGhoost02&icon=1&color=0)](https://visitcount.itsvg.in)
 
-- 📫 How to reach me **contactmfaisal@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/mohammad-faisal-306362236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohammad-faisal-306362236" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingghoost02&show_icons=true&locale=en&layout=compact" alt="codingghoost02" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingghoost02&" alt="codingghoost02" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
